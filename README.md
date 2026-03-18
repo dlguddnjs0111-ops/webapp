@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 웹프로그래밍 응용 2026
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
