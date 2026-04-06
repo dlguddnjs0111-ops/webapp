@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 웹프로그래밍 응용 2026
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -31,6 +32,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
+=======
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+>>>>>>> my-app-repo/main
 ## Available Scripts
 
 In the project directory, you can run:
