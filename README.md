@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # 웹 프로그래밍 응용 과제 (2026-04-06)
 
 ## 🌐 과제 실행 링크
-[나의 취미 소개 사이트 바로가기](https://dlguddnjs0111-ops.github.io/webapp/0401/web-assignment/index.html)
+[나의 취미 소개 사이트 바로가기]([https://dlguddnjs0111-ops.github.io/webapp/0401/web-assignment/index.html](https://dlguddnjs0111-ops.github.io/webapp/0401/web-assingment/index.html))
 
 ## 📝 과제 요구사항 확인
 1. **Google Antigravity 기반 사이트 제작 및 배포**: 완료
