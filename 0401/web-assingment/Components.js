@@ -32,6 +32,6 @@ const About = () => (
 // 5. Footer 컴포넌트
 const Footer = () => (
     <footer className="bg-gray-800 p-4 text-white text-center text-sm">
-        © 2026 웹프로그래밍 과제 | 학번: 202XXXXX
+        © 2026 웹프로그래밍 과제 | 학번: 2022564036 이름 : 이형원
     </footer>
 );
