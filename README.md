@@ -2,6 +2,35 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# 웹 프로그래밍 응용 과제 (2026-04-06)
+
+## 🌐 과제 실행 링크 (클릭 시 바로 이동)
+[과제 웹사이트 바로가기](https://dlguddnjs0111-ops.github.io/webapp/0401/index.html)
+
+## 📝 과제 요구사항 확인
+1. **Google Antigravity 기반 사이트 제작 및 배포**: 완료
+2. **5개 이상의 컴포넌트 구성**: 완료
+   - Header, Hero, HobbyCard, About, Footer
+3. **2개 이상의 Props 전달**: 완료
+   - `HobbyCard` 컴포넌트에 `title` 및 `desc` 속성 전달 (Components.js 확인 가능)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
