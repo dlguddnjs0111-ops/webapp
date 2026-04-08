@@ -20,3 +20,7 @@ JSX = JS + XML
 
 객체값이 바뀌면 화면도 바뀜
 
+sestState는 비동기적으로 작동한다.
+
+function component, class component 두개가 있
+
