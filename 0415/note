@@ -61,7 +61,13 @@ useState
 컴포넌트에 state variable를 추가할 수 있다.
 const [state, setState] = useState(initialState)
 
+인 : 측은지심
+의 : 의롭다
+예 : 사양지신
+지 : 십이지신
+신 : 광명지신
 
+중도 : 과하면 해가 되니 중간만 하라, 눈치껏 상황껏 요령껏.
 
 
 
